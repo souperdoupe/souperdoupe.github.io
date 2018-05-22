@@ -1,0 +1,39 @@
+<style type="text/css">
+h1 {
+  font-size: 7vw;
+  }
+h2 {
+  font-size: 4vw;
+  }
+p {
+  font-size: 4vw;
+  }
+img {
+  size: 5vw;
+}
+
+A:link { COLOR: #ff0066; TEXT-DECORATION: none; font-weight: none }
+A:hover { COLOR: #ff0066; TEXT-DECORATION: underline; font-weight: bold}
+</style>
+
+<font face="Monospace"><center><h1>C r U n K b O n G</h1>
+<br>
+<br>
+<img width=300 height=300 src=https://raw.githubusercontent.com/souperdoupe/souperdoupe.github.io/master/index.png></img>
+<br>
+<br>
+<h2>Self-educate.  Operate.  Evacuate.</h2>
+<br>
+<br>
+<font size=4>
+<b><p><a href=https://sourceforge.net/projects/crunkbong-os/?source=directory>download</a></p>
+<p><a href=https://github.com/souperdoupe/crunkbong/wiki>wiki</a></p>
+<p><a href=https://github.com/souperdoupe/souperdoupe.github.io/wiki>blog</a></p>
+<p><a href=https://github.com/souperdoupe/crunkbong/tree/master/screenshots>screenshots</a></p>
+<p><a href=https://github.com/souperdoupe/crunkbong>github</a></p></b>
+</font>
+<br>
+<p>Powered by <a href=https://devuan.org>Devuan</a></p></center>
+
+</font>
+</body>
